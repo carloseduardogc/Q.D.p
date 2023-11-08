@@ -1,0 +1,2 @@
+c = float(input("digite o raio de um círculo:"))
+print("a área dele é:", 3.14 * (c * c))

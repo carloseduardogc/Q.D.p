@@ -1,0 +1,8 @@
+n1 = int("1 número inteiro :")
+n2 = int("2 número inteiro :")
+n3 = float(input("número real :"))
+
+
+print ("soma", ((2*n1) * (n2/2)))
+print ('produto', (3 * n1) + n3)
+print("cubo :", n3 * 3)
